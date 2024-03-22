@@ -56,3 +56,4 @@ exclude:
   - vendor/ruby/
   - /docs # ignore Basically Basic sample site
   - /drafts # ignore for production
+  - /resume-json # teh MD files here were not intended to be published.
