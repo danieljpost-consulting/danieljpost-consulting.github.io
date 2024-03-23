@@ -1,0 +1,14 @@
+---
+layout: post
+title: The 12-Factor App
+date:   2024-03-22 21:01:25 -0600
+categories: "best-practices Clean-Code"
+---
+
+## The 12 FActor App
+
+Draft version of page I want to eventually write extolling what I think of the [12 Factor App](https://12factor.net) and why it applies to my own work.
+
+Perhaps one day I'll even write an article about each of the factors
+
+[Source Code of the 12 Factor website](https://github.com/heroku/12factor), because I want to steal from their site.
