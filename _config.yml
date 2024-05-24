@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Daniel J. Post Consulting
+title: Daniel J. Post Consulting, Inc.
 email: solutions@danieljpost.consulting
 description: >- # this means to ignore newlines until "baseurl:"
   Use the source, Luke.
@@ -28,6 +28,7 @@ url: "https://danieljpost.consulting" # the base hostname & protocol for your si
 github_username:  danieljpost-consulting
 google_analytics: G-PZL3JY973E
 google_tag: G-215444062
+excerpts: true
 
 # Build settings
 theme: minima
